@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 
     //var7
 
-    //
+
 
     w.show();
     return a.exec();
